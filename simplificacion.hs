@@ -1,0 +1,1 @@
+simplificacion p q = p == q  
